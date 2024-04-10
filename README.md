@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=5PdEmeopJVQ&t=5239s
 
 IMAGES:
 --------------------
-1 - INTELLIJ IDEA 
+**1 - INTELLIJ IDEA**  
 ![image](https://github.com/Cristianfllc3/SpringBootBack/assets/72107370/35b0a91f-790b-4012-b1f4-8261448c98cb)
 
-2- TEST POSTMAN - API
+**2- TEST POSTMAN - API** 
 ![image](https://github.com/Cristianfllc3/SpringBootBack/assets/72107370/fb022662-6d14-4032-8857-ebbfde9f260d)
